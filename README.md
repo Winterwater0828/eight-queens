@@ -1,8 +1,3 @@
-以下是为你的八皇后问题实验项目编写的 `README.md`，适合放在 GitHub 仓库中展示。
-
----
-
-```markdown
 # 八皇后问题实验：命令式编程 vs 逻辑编程
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
